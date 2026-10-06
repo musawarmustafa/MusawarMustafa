@@ -30,4 +30,4 @@ I design and build secure, cloud-based business platforms. I recently completed 
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/musawar-mustafa-a8919617)
+- LinkedIn: [linkedin.com/in/MusawarMustafa](https://www.linkedin.com/in/musawar-mustafa-a8919617)
