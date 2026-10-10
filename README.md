@@ -18,16 +18,16 @@ I design and build secure, cloud-based business platforms. I recently completed 
 
 ## Tech stack
 
-**Languages:** C#, TypeScript, Python, T-SQL
-**Frameworks:** .NET, Angular, Flask
-**Cloud and DevOps:** Azure, Azure DevOps, CI/CD pipelines
-**Security:** DevSecOps, secure coding, ISO 27001, GDPR
+- **Languages:** C#, TypeScript, Python, T-SQL
+- **Frameworks:** .NET, Angular, Flask
+- **Cloud and DevOps:** Azure, Azure DevOps, CI/CD pipelines
+- **Security:** DevSecOps, secure coding, ISO 27001, GDPR
 
 ## Featured projects
 
-- **LLM-based security triage** (coming soon). My MSc dissertation project.
+- **[LLM-based security triage](https://github.com/musawarmustafa/llm-devsecops-triage)**. Compares how well an LLM triages SAST, secrets and dependency findings in a DevSecOps pipeline. My MSc dissertation project.
 - More projects on secure software delivery and compliance tools on the way.
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/MusawarMustafa](https://www.linkedin.com/in/musawar-mustafa-a8919617)
+- LinkedIn: [linkedin.com/in/musawar-mustafa-a8919617](https://www.linkedin.com/in/musawar-mustafa-a8919617)
